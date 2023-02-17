@@ -1,2 +1,0 @@
-# barbershop
-barber shop template
